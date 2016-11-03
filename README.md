@@ -5,8 +5,6 @@ The modification that I made allow one argument to be passed to the route handle
 
 --------------------
 
-Simple way to group your routes in Express.
-
 ##Quick start
 
 If you want to prefix all routes with a certain URL you can use the `group` method as following: 
