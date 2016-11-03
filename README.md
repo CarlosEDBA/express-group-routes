@@ -1,4 +1,8 @@
-Express group routes
+Express Group Routes Fork
+
+This is a fork from [dirkgroenen](https://www.npmjs.com/~dirkgroenen) [express-group-routes](https://www.npmjs.com/package/express-group-routes).
+The modification that I made allow one argument to be passed to the route handler.
+
 --------------------
 
 Simple way to group your routes in Express.
