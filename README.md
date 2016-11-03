@@ -1,4 +1,4 @@
-##Express Group Routes Fork
+#Express Group Routes Fork
 
 This is a fork of [express-group-routes](https://www.npmjs.com/package/express-group-routes) by [dirkgroenen](https://www.npmjs.com/~dirkgroenen).
 The modification that I made allow one argument to be passed to the route handler.
@@ -7,7 +7,7 @@ The modification that I made allow one argument to be passed to the route handle
 
 Simple way to group your routes in Express.
 
-#Quick start
+##Quick start
 
 If you want to prefix all routes with a certain URL you can use the `group` method as following: 
 
